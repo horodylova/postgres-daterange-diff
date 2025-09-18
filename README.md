@@ -1,4 +1,4 @@
-# PostgreSQL DateRange Diff
+# PostgreSQL DateRange
 Subtracts one date range from another in PostgreSQL.
 
 ## Function
